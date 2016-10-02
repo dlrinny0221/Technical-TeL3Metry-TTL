@@ -1,0 +1,8 @@
+two-dimensional
+single-player
+genre-platformer
+gameplay-puzzle-game
+content-science-fiction
+side-perspective
+mechanic-transformation-physics-gravity
+misc-difficult-execution
